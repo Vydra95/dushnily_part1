@@ -4,3 +4,4 @@ Traceback (most recent call last):
   File "C:\Users\Lenovo\PycharmProjects\PythonProject\Topic2\Task1.py", line 22, in <module>
     raise NegativeValueError
 NegativeValueError
+

@@ -1,5 +1,5 @@
-INFO:root:Получилось 5.333333333333333
-INFO:root:Получилось 2.0
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ 5.333333333333333
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ 2.0
 ERROR:root:TypeError
 Traceback (most recent call last):
   File "C:\Users\Lenovo\PycharmProjects\PythonProject\Topic2\Task3.py", line 9, in <module>
@@ -12,3 +12,4 @@ Traceback (most recent call last):
     a, b, c = int(a), int(b), int(c)
               ^^^^^^
 ValueError: invalid literal for int() with base 10: '(a, b)'
+

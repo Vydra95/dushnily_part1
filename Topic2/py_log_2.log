@@ -1,5 +1,5 @@
-INFO:root:Получилось 2
-INFO:root:Получилось 22
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ 2
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ 22
 ERROR:root:NegativeValueError
 Traceback (most recent call last):
   File "C:\Users\Lenovo\PycharmProjects\PythonProject\Topic2\Task2.py", line 20, in <module>
@@ -20,9 +20,10 @@ Traceback (most recent call last):
   File "C:\Users\Lenovo\PycharmProjects\PythonProject\Topic2\Task2.py", line 20, in <module>
     raise NegativeValueError
 NegativeValueError
-INFO:root:Получилось 13
+INFO:root:пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ 13
 ERROR:root:NegativeValueError
 Traceback (most recent call last):
   File "C:\Users\Lenovo\PycharmProjects\PythonProject\Topic2\Task2.py", line 21, in <module>
     raise NegativeValueError
 NegativeValueError
+

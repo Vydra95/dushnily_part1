@@ -12,4 +12,3 @@ Traceback (most recent call last):
     a, b, c = int(a), int(b), int(c)
               ^^^^^^
 ValueError: invalid literal for int() with base 10: '(a, b)'
-

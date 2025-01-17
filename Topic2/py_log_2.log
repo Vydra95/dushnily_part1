@@ -1,0 +1,28 @@
+INFO:root:Получилось 2
+INFO:root:Получилось 22
+ERROR:root:NegativeValueError
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\PycharmProjects\PythonProject\Topic2\Task2.py", line 20, in <module>
+    raise NegativeValueError
+NegativeValueError
+ERROR:root:ExcessiveValueError
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\PycharmProjects\PythonProject\Topic2\Task2.py", line 22, in <module>
+    raise ExcessiveValueError
+ExcessiveValueError
+ERROR:root:NegativeValueError
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\PycharmProjects\PythonProject\Topic2\Task2.py", line 20, in <module>
+    raise NegativeValueError
+NegativeValueError
+ERROR:root:NegativeValueError
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\PycharmProjects\PythonProject\Topic2\Task2.py", line 20, in <module>
+    raise NegativeValueError
+NegativeValueError
+INFO:root:Получилось 13
+ERROR:root:NegativeValueError
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\PycharmProjects\PythonProject\Topic2\Task2.py", line 21, in <module>
+    raise NegativeValueError
+NegativeValueError

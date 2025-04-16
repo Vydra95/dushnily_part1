@@ -1,7 +1,5 @@
-"""Сумма квадратов в заданном диапазоне"""
-
-a = 5
-b = 1
+# THIRDPARTY
+import pytest
 
 
 class UnbalancedError(Exception):
@@ -19,5 +17,8 @@ def square_sum(a: int, b: int) -> int | str:
         return n
     except TypeError:
         return "Can't find squares"
-    except UnbalancedError:
-        raise
+
+
+def test_square_sum_raises_unbalanced_error():
+    with pytest.raises(UnbalancedError):
+        square_sum(5, 1)
